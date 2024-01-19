@@ -16,4 +16,4 @@ Este é um estudo em JavaScript sobre o desempenho de funções assíncronas, ut
 1. **Clone o repositório:**
 
    ```bash
-   git clone git@github.com:seu-nome-de-usuario/Sincronia-de-Funcoes.git
+   git@github.com:rodolphoreis/Sincronia-de-Funcoes.git
